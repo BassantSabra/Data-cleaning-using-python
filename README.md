@@ -1,5 +1,5 @@
 # Data-cleaning-using-python
-## Features
+## steps
 
 - **File Management**: Automatically detects and processes Excel files in a specified directory.
 - **Data Cleaning**:
